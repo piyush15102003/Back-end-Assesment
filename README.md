@@ -5,7 +5,7 @@ This is a basic appointment management system for a small clinic with a multi-do
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/piyush15102003/Back-end-Assesment.git
    cd Back-End-Assessment-Piyush-Pandey
    ```
 
